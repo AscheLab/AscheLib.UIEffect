@@ -1,0 +1,20 @@
+{
+    "name": "com.aschelab.uieffect",
+    "displayName": "AscheLib.UIEffect",
+    "version": "1.0.1",
+    "unity": "2018.3",
+    "description": "UIEffect is a library for implementing UI that applies effects to previously rendered graphics",
+    "author": {
+        "name": "Syunta Washidu (AscheLab)",
+        "url": "https://github.com/AscheLab",
+        "email": "tfb00plzdj@gmail.com"
+    },
+    "license": "MIT",
+    "keywords": [],
+    "category": "",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AscheLab/AscheLib.UIEffect.git"
+    }
+}
