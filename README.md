@@ -4,6 +4,24 @@ Created by Syunta Washidu (AscheLab)
 ## What's UIEffect?
 UIEffect is a library for implementing UI that applies effects to previously rendered graphics
 
+## Install
+### Using UnityPackageManager
+Find the manifest.json file in the Packages folder of your project and edit it to look like this.
+```
+"scopedRegistries": [
+    {
+      "name": "Unofficial Unity Package Manager Registry",
+      "url": "https://upm-packages.dev",
+      "scopes": [
+        "com.aschelab"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.aschelab.uieffect": "1.0.1",
+  ...
+  }
+```
 ## Using for UIEffect
 ```csharp
 using AscheLib.UI
